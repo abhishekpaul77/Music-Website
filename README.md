@@ -1,4 +1,4 @@
-# GrooveTunes: Explore the Rhythm of Music
+# Play the beat: Explore the Rhythm of Music
 
 🎶 Welcome to GrooveTunes, where the world of music comes alive through pixels and code. Immerse yourself in a digital symphony crafted with HTML, CSS, and JavaScript.
 
