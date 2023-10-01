@@ -1,15 +1,15 @@
 # Play the beat: Explore the Rhythm of Music
 
-🎶 Welcome to GrooveTunes, where the world of music comes alive through pixels and code. Immerse yourself in a digital symphony crafted with HTML, CSS, and JavaScript.
+🎶 Welcome to Play the Beat, where the world of music comes alive through pixels and code. Immerse yourself in a digital symphony crafted with HTML, CSS, and JavaScript.
 
 ## Project Highlights
-🎵 **Discover Music Vibes:** Embark on a sonic journey through a stunning collection of melodies. GrooveTunes is your gateway to exploring tracks, albums, and artists in a visually enchanting environment.
+🎵 **Discover Music Vibes:** Embark on a sonic journey through a stunning collection of melodies. Play the Beat is your gateway to exploring tracks, albums, and artists in a visually enchanting environment.
 
 🔊 **Play Your Beat:** Dive into an immersive music player experience. Play, pause, skip – engage with the music and savor each note in a user-friendly interface that resonates with harmony.
 
 🎨 **Artistry in Design:** Witness the fusion of design aesthetics and music culture. The project showcases responsive design, fluid animations, and dynamic content, all harmonizing to create an engaging digital music haven.
 
-## Experience GrooveTunes
+## Experience Play the Beat
 
 🎵 **Run Locally:** Ready to explore the code or enhance the project? Follow these steps to run the project locally on your machine:
 
@@ -20,7 +20,7 @@
 ## Let's Connect
 🎶 **Join the Conversation:** The rhythm doesn't stop here. Let's connect on [LinkedIn](https://www.linkedin.com/in/abhishek-paul-aa6257250/). Share your thoughts, ideas, and let's harmonize our creativity.
 
-Unleash your inner music aficionado with GrooveTunes. Immerse yourself in the marriage of music and technology, where every click is a note, and every pixel is a melody. Welcome to the symphony of GrooveTunes.
+Unleash your inner music aficionado with Play the Beat. Immerse yourself in the marriage of music and technology, where every click is a note, and every pixel is a melody. Welcome to the symphony of Play the Beat.
 
 _"In every beat, a world of emotions unfolds."_
 
